@@ -45,7 +45,7 @@ st.markdown("""
 
 # 2. API SETUP
 # Jangan lupa ganti API Key lo di sini kalau mau dideploy!
-client = Groq(api_key="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")
+client = Groq(api_key="GROQ_API_KEY")
 
 # 3. SYSTEM PROMPT (The Brain)
 SYSTEM_PROMPT = """
